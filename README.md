@@ -1,4 +1,4 @@
-# API Mini lab Melko Timofey 5030102/20201
+# API Mini lab Krekhov Danil 5030102/20201
 
 This API is designed to provide information about the most popular cryptocurrencies, NFTs and exchange platforms.
 
